@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQEJLVqF_Gch4w/profile-displaybackgroundimage-shrink_200_800/0/1659255577109?e=2147483647&v=beta&t=EAg2Rw_IeNbz9BKWKTOyVnr2dSVSh3nx_OdYmxPPPSk)]
+![MasterHead](https://media.licdn.com/dms/image/C5616AQEJLVqF_Gch4w/profile-displaybackgroundimage-shrink_200_800/0/1659255577109?e=2147483647&v=beta&t=EAg2Rw_IeNbz9BKWKTOyVnr2dSVSh3nx_OdYmxPPPSk)
 
 <h1 align="center">Hi 👋, I'm SIDHARTH K K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
