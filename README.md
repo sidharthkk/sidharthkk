@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5616AQEJLVqF_Gch4w/profile-displaybackgroundimage-shrink_200_800/0/1659255577109?e=2147483647&v=beta&t=EAg2Rw_IeNbz9BKWKTOyVnr2dSVSh3nx_OdYmxPPPSk)
 
 <h1 align="center">Hi 👋, I'm SIDHARTH K K</h1>
-<h3 align="center"> To opensource......
+<h3 align="center"> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthkk&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthkk" /> </p>
